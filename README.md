@@ -1,5 +1,5 @@
 # AWD-Net
-This is the project of manuscript AWD-Net: Adaptive Wavelet Decomposition Network for Rotating Machinery Fault Diagnosis Under Noisy Environment, Ye Zhang, Aosheng Tian, Chao Ma, Shilin Zhou and Yulan Guo. **Our team will release more interesting works and applications on time series analysis. Please keep following our repository.**
+This is the project of manuscript AWD-Net: Adaptive Wavelet Decomposition Network for Rotating Machinery Fault Diagnosis Under Noisy Environment.
 
 ![architechture](AWD-Net.png)
 
@@ -45,4 +45,3 @@ python main.py --PATTERN TEST --DATASETS CWRU_10 --CLASSIFIERS_all AWD_Net --tes
 Limited by storage space, we only upload the CWRU_10 dataset in the project.
 
 
-  
